@@ -1,0 +1,9 @@
+You're awoken by the sound of screaming outside your bedroom window. You look outside and theres chaos; people running around in tears, getting into fights, climbing poles..?
+In a moment of confusion, you tear yourself out of your bed and head to the living room, turning on tthe TV and looking at the news. Theres a countdown.
+65.. 64..63..
+
+What do you do?
+
+[Stay]
+
+`
