@@ -1,0 +1,1 @@
+For some reason, your first instinct is to punch the first person you see running in front of you. They stop right in there tracks and look at you, a shocked look on their face. You clearly chose the wrong person, and unfortunately for you, you get decked in the face. You decided to spend your last moments being a jerk and lost. That really, really, sucks.
