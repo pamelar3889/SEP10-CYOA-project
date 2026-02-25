@@ -4,6 +4,6 @@ In a moment of confusion, you tear yourself out of your bed and head to the livi
 
 What do you do?
 
-[Stay]
+[Stay in your house](/)
 
 `
