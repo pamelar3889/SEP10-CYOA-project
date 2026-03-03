@@ -7,4 +7,3 @@ What do you do?
 
 [Stay in your house](stay-in/inside.md) [Go outside](go-out/outside.md)
 
-`
