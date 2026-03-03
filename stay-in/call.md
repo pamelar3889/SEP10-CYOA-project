@@ -1,3 +1,5 @@
- Your parents are obviously hysterical when you call them.  You spend the rest of the time left comforting them and talking to them on the phone about whatever you can fit into a one minute conversation. You get to talk to them one last time before the world ends, and it's somewhat pleasant to die getting to hear your parents voices and seeing their face for one last time.
+ Your parents are obviously hysterical when you call them.  Of course, you love your parents, but it makes you wonder if this is seriously what you should be doing with the last few seconds of your life.
+ Do you...
 
-[Start over](../beginning.md)
+ [Stay on the phone](stay.md) [Hang up](hangup.md)
+
