@@ -1,3 +1,3 @@
-You leave your phone on the table and instead grab the remote and turn on your favorite TV show. You spend the last 60 seconds of your life laying on the couch and watching TV, even though most of the leftover time was taken up by the intro. Even though you weren't very productive, least you did something with your time left, right?
+You leave your phone on the table and instead grab the remote and turn on your favorite TV show. You spend the last 60 seconds of your life laying on the couch and watching TV, even though most of the leftover time was taken up by the intro. Even though you didn't do anything very productive, at least you did something you enjoyed with your time left, right?
 
 [Start over](../beginning)
